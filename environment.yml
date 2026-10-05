@@ -1,0 +1,16 @@
+name: sseval
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - matplotlib>=3.8
+  - pandas>=2.2
+  - python-dateutil>=2.9
+  - pyyaml>=6.0
+  - requests>=2.31
+  - seaborn>=0.13
+  - tqdm>=4.66
+  - ipykernel
+  - pip
+  - pip:
+      - -e .
