@@ -1,5 +1,15 @@
 # GitHub-linked published and archived scientific software records with repository activity metrics, 2016-2026
 
+## Data availability
+
+The data files described here are not distributed as part of the GitHub repository. To use the published dataset, download the associated Zenodo archive:
+
+```text
+https://doi.org/10.5281/zenodo.23151326
+```
+
+Alternatively, the data can be regenerated with the `sseval` pipeline as described below.
+
 This dataset was created for an exploratory analysis of published or archived scientific software projects that link to public GitHub repositories. It combines source records from the Journal of Open Source Software (JOSS) and Zenodo software records with GitHub-derived repository metadata and first-year activity metrics.
 
 The dataset supports a descriptive analysis of how GitHub-linked scientific software records have grown over time and how often these repositories show visible development and sustainability signals, including documentation infrastructure, issues, pull requests, and commits.
