@@ -1,6 +1,6 @@
-# Scientific Software Evaluation
+# Scripts for evaluating sustainability signals in published scientific software
 
-This project builds an exploratory dataset of formally published or archived scientific software projects that link to public GitHub repositories. The goal is to support the poster and manuscript idea that publishing software is not the same as making it sustainable, reusable, documented, maintained, and community-ready.
+This project, `sseval`, builds an exploratory dataset of formally published or archived scientific software projects that link to public GitHub repositories. The goal is to support the poster and manuscript idea that publishing software is not the same as making it sustainable, reusable, documented, maintained, and community-ready.
 
 The analysis intentionally avoids claiming to measure "all scientific software on GitHub". Instead, it defines observable cohorts from public sources that already imply some publication or archival step.
 
@@ -268,3 +268,17 @@ Important limitations:
 - Repository renames, transfers, deletions, and archived states can affect measurement.
 
 These limitations should be stated on any poster or manuscript panel that uses the plots.
+
+## Citation
+
+If you use `sseval` for scientific work, please cite the software repository:
+
+```text
+Musacchio, F. (2026). sseval: Evaluating sustainability signals in published scientific software [Software]. GitHub. https://github.com/FabrizioMusacchio/sseval
+```
+
+If you use the associated dataset or reproduce the published plots, please cite the Zenodo archive:
+
+```text
+Musacchio, F. (2026). GitHub-linked published and archived scientific software records with repository activity metrics, 2016-2026 [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23151326
+```
