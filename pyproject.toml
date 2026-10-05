@@ -19,7 +19,8 @@ dependencies = [
 ]
 
 [project.scripts]
-sseval = "scientific_software_evaluation.cli:main"
+sseval = "sseval.cli:main"
 
 [tool.setuptools.packages.find]
-where = ["src"]
+where = ["."]
+include = ["sseval*"]
