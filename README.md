@@ -271,10 +271,10 @@ These limitations should be stated on any poster or manuscript panel that uses t
 
 ## Citation
 
-If you use `sseval` for scientific work, please cite the software repository:
+If you use `sseval` for scientific work, please cite the software archive:
 
 ```text
-Musacchio, F. (2026). sseval: Evaluating sustainability signals in published scientific software [Software]. GitHub. https://github.com/FabrizioMusacchio/sseval
+Musacchio, F. (2026). sseval: Evaluating sustainability signals in published scientific software (Version v0.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23153713
 ```
 
 If you use the associated dataset or reproduce the published plots, please cite the Zenodo archive:
