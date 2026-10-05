@@ -9,3 +9,13 @@ repository-code: "https://github.com/FabrizioMusacchio/sseval"
 date-released: "2026-10-05"
 version: "0.1.0"
 abstract: "sseval collects and analyzes publication, archival, repository, documentation, and first-year activity signals for GitHub-linked scientific software records from sources such as JOSS and Zenodo."
+preferred-citation:
+  type: software
+  title: "sseval: Evaluating sustainability signals in published scientific software"
+  authors:
+    - family-names: Musacchio
+      given-names: Fabrizio
+  version: "v0.0.0"
+  date-released: "2026"
+  doi: "10.5281/zenodo.23153713"
+  url: "https://doi.org/10.5281/zenodo.23153713"
