@@ -1,5 +1,7 @@
 # Scripts for evaluating sustainability signals in published scientific software
 
+![GitHub Release](https://img.shields.io/github/v/release/FabrizioMusacchio/sseval) [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-green.svg)](https://sseval.readthedocs.io/en/latest/overview.html#license) [![GitHub last commit](https://img.shields.io/github/last-commit/FabrizioMusacchio/sseval)](https://github.com/FabrizioMusacchio/sseval/commits/main/)  [![GitHub Issues Open](https://img.shields.io/github/issues/FabrizioMusacchio/sseval)](https://github.com/FabrizioMusacchio/sseval/issues) [![GitHub Issues Closed](https://img.shields.io/github/issues-closed/FabrizioMusacchio/sseval?color=53c92e)](https://github.com/FabrizioMusacchio/sseval/issues?q=is%3Aissue%20state%3Aclosed) [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/FabrizioMusacchio/sseval)](https://github.com/FabrizioMusacchio/sseval/pulls)  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/fabriziomusacchio/sseval) [![Example Datasets on Zenodo](https://img.shields.io/badge/Example%20Datasets-10.5281%2Fzenodo.23151325-blue)](https://doi.org/10.5281/zenodo.23151325)   [![Zenodo Archive](https://img.shields.io/badge/Zenodo%20Archive-10.5281%2Fzenodo.23153713-blue)](https://doi.org/10.5281/zenodo.23153713)  [![Preprint](https://img.shields.io/badge/Preprint-10.20944%2Fpreprints202610.0523.v1-D4A017?logo=doi)](https://doi.org/10.20944/preprints202610.0523.v1)
+
 This project, `sseval`, builds an exploratory dataset of formally published or archived scientific software projects that link to public GitHub repositories. The goal is to support the poster and manuscript idea that publishing software is not the same as making it sustainable, reusable, documented, maintained, and community-ready.
 
 The analysis intentionally avoids claiming to measure "all scientific software on GitHub". Instead, it defines observable cohorts from public sources that already imply some publication or archival step.
@@ -276,7 +278,7 @@ If you use `sseval` for scientific work, please cite the software archive:
 > Musacchio, F. (2026). *sseval: Evaluating sustainability signals in published scientific software* (Version v0.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23153713
 
 
-Please, also cite the accompagning preprint 
+Please, also cite the accompanying preprint 
 
 > Musacchio,  F., and Fuhrmann,  M., *What Transforms Project-Specific Code into Sustainable Scientific Software? Principles for Developing Reusable Open-Source Research Tools*. Preprints 2026, 2026100523. https://doi.org/10.20944/preprints202610.0523.v1
 
