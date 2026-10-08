@@ -272,12 +272,15 @@ These limitations should be stated on any poster or manuscript panel that uses t
 ## Citation
 If you use `sseval` for scientific work, please cite the software archive:
 
-```text
-Musacchio, F. (2026). sseval: Evaluating sustainability signals in published scientific software (Version v0.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23153713
-```
+
+> Musacchio, F. (2026). *sseval: Evaluating sustainability signals in published scientific software* (Version v0.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23153713
+
+
+Please, also cite the accompagning preprint 
+
+> Musacchio,  F., and Fuhrmann,  M., *What Transforms Project-Specific Code into Sustainable Scientific Software? Principles for Developing Reusable Open-Source Research Tools*. Preprints 2026, 2026100523. https://doi.org/10.20944/preprints202610.0523.v1
 
 If you use the associated dataset or reproduce the published plots, please cite the Zenodo archive:
 
-```text
-Musacchio, F. (2026). GitHub-linked published and archived scientific software records with repository activity metrics, 2016-2026 [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23151326
-```
+> Musacchio, F. (2026). *GitHub-linked published and archived scientific software records with repository activity metrics*, 2016-2026 [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23151326
+
