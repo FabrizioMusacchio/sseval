@@ -270,7 +270,6 @@ Important limitations:
 These limitations should be stated on any poster or manuscript panel that uses the plots.
 
 ## Citation
-
 If you use `sseval` for scientific work, please cite the software archive:
 
 ```text
